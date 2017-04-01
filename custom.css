@@ -10,3 +10,28 @@
     background-color: rgba(0, 0, 0);
 }
 
+.input-group-addon
+{
+    color: white;
+    background: #007888;
+    border: none;
+}
+
+.btn-primary
+{
+    background: #007888;
+    border: none;
+}
+
+.form-control
+{
+    border-left: none;
+    border-radius: 2px;
+}
+
+.form-label
+{
+    font-weight: 500;
+    font-family: Roboto;
+}
+
